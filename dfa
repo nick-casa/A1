@@ -1,0 +1,19 @@
+START (accept)
+  /:  s0
+  other:  s1
+
+s0 (accept)
+   *:  s3
+   other:  s1
+
+s1 (accept)
+   /:  s0
+   other:  s1
+
+s2 (reject)
+   /:  s1
+   other:  s3
+
+s3 (reject)
+   *:  s2
+   other:  s3
