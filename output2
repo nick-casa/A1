@@ -1,0 +1,6483 @@
+
+===============================================================
+Test with input file 00eof.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one
+This is ÿ line two
+This is line three
+
+********** This is the correct stdout:
+This is line one
+This is ÿ line two
+This is line three
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 01normal1.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+
+********** This is the correct stdout:
+This is line one.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 2SUCCESS: 2
+
+===============================================================
+Test with input file 01normal2.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is line two.
+This is \nline three.
+This is line four.
+This is line five.
+
+********** This is the correct stdout:
+This is line one.
+This is line two.
+This is \nline three.
+This is line four.
+This is line five.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 6SUCCESS: 2
+
+===============================================================
+Test with input file 01normal3.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is line two.
+This is line three.
+********** This is the correct stdout:
+This is line one.
+This is line two.
+This is line three.
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 3SUCCESS: 2
+
+===============================================================
+Test with input file 02singlelinecomment1.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is line two.
+This /*is line */three.
+This is line four.
+This is line five.
+This is line six.
+
+********** This is the correct stdout:
+This is line one.
+This is line two.
+This  three.
+This is line four.
+This is line five.
+This is line six.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 7SUCCESS: 2
+
+===============================================================
+Test with input file 02singlelinecomment2.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This/* is line */two.
+This /*is line */three.
+This/* is line*/ four.
+/* This is line five. */
+This is line six.
+
+********** This is the correct stdout:
+This is line one.
+This two.
+This  three.
+This  four.
+ 
+This is line six.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 7SUCCESS: 2
+
+===============================================================
+Test with input file 02singlelinecomment3.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This/* is line \*/two.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This two.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 02singlelinecomment4.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This\/* is line */two.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This\ two.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 02singlelinecomment5.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This /*is \n line */two.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This  two.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 02singlelinecomment6.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is /*\n*/ line two.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This is   line two.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 02singlelinecomment7.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This /*is *//*line */two.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This   two.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 02singlelinecomment8.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This /*'*/ is line two.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This   is line two.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 02singlelinecomment9.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This /*"*/ is line two.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This   is line two.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 03multilinecomment1.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is /*line two.
+This is line */ three.
+This is line four.
+
+********** This is the correct stdout:
+This is line one.
+This is  
+ three.
+This is line four.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 5SUCCESS: 2
+
+===============================================================
+Test with input file 03multilinecomment2.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is /*line two.
+This is line three.
+This is line */four.
+This is line five.
+This is /*line six.
+This is line seven.
+This is line eight.
+This is line nine.
+This is line ten.
+This is line */eleven.
+This is line twelve.
+
+********** This is the correct stdout:
+This is line one.
+This is  
+
+four.
+This is line five.
+This is  
+
+
+
+
+eleven.
+This is line twelve.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 13SUCCESS: 2
+
+===============================================================
+Test with input file 03multilinecomment3.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+/*This is line two.
+This is line three.*/
+This is line four.
+/*This is line five.
+This is line six.
+This is line seven.
+This is line eight.
+This is line nine.
+This is line ten.*/
+This is line eleven.
+
+********** This is the correct stdout:
+This is line one.
+ 
+
+This is line four.
+ 
+
+
+
+
+
+This is line eleven.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 12SUCCESS: 2
+
+===============================================================
+Test with input file 03multilinecomment4.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+/*This is line two.
+This is line three.
+*/This is line four.
+This is line five.
+
+********** This is the correct stdout:
+This is line one.
+ 
+
+This is line four.
+This is line five.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 6SUCCESS: 2
+
+===============================================================
+Test with input file 03multilinecomment5.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+/*
+*/
+This is line four.
+
+********** This is the correct stdout:
+This is line one.
+ 
+
+This is line four.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 5SUCCESS: 2
+
+===============================================================
+Test with input file 04falsecommentstart1.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This //* is line */ two.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This /  two.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 04falsecommentstart2.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This ///* is line */ two.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This //  two.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 04falsecommentstart3.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This ////* is line */ two.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This ///  two.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 04falsecommentstart4.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is line /"two".
+This /*is*/ line three.
+This is line four.
+
+********** This is the correct stdout:
+This is line one.
+This is line /"two".
+This   line three.
+This is line four.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 5SUCCESS: 2
+
+===============================================================
+Test with input file 04falsecommentstart5.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is line /'two'.
+This /*is*/ line three.
+This is line four.
+
+********** This is the correct stdout:
+This is line one.
+This is line /'two'.
+This   line three.
+This is line four.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 5SUCCESS: 2
+
+===============================================================
+Test with input file 04falsecommentstart6.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This /is line two.
+This //is line three.
+This ///is line four.
+This ////is line five.
+This is line six.
+
+********** This is the correct stdout:
+This is line one.
+This /is line two.
+This //is line three.
+This ///is line four.
+This ////is line five.
+This is line six.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 7SUCCESS: 2
+
+===============================================================
+Test with input file 04falsecommentstart7.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is line two./
+********** This is the correct stdout:
+This is line one.
+This is line two./
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+Total Lines: 2SUCCESS: 1
+
+===============================================================
+Test with input file 04falsecommentstart8.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is line two./////
+///*This is*/ line three.
+This is line four.
+
+********** This is the correct stdout:
+This is line one.
+This is line two./////
+//  line three.
+This is line four.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 5SUCCESS: 2
+
+===============================================================
+Test with input file 04falsecommentstart9.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is line two./
+*This is line three.
+This is line four.
+
+********** This is the correct stdout:
+This is line one.
+This is line two./
+*This is line three.
+This is line four.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 5SUCCESS: 2
+
+===============================================================
+Test with input file 05falsecommentend1.txt
+===============================================================
+
+***** Exit status is incorrect.
+
+********** This is the correct exit status:
+0
+
+********** Your program had this exit status:
+1
+
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This /*is line **/two.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This  two.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+Total Lines: 4
+
+***** stderr is incorrect.
+
+********** This is stdin:
+This is line one.
+This /*is line **/two.
+This is line three.
+
+********** This is the correct stderr:
+
+********** This is your program's stderr:
+Line 4: Unterminated Comment.
+
+===============================================================
+Test with input file 05falsecommentend2.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This /*is line ***/two.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This  two.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 05falsecommentend3.txt
+===============================================================
+
+***** Exit status is incorrect.
+
+********** This is the correct exit status:
+0
+
+********** Your program had this exit status:
+1
+
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This /*is line ****/two.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This  two.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 4 
+currentState: 3 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+Total Lines: 4
+
+***** stderr is incorrect.
+
+********** This is stdin:
+This is line one.
+This /*is line ****/two.
+This is line three.
+
+********** This is the correct stderr:
+
+********** This is your program's stderr:
+Line 4: Unterminated Comment.
+
+===============================================================
+Test with input file 05falsecommentend4.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is /* line two. *
+*This is */line three.
+
+********** This is the correct stdout:
+This is line one.
+This is  
+line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 4 
+currentState: 3 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 05falsecommentend5.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is /* line two. *
+/This is */line three.
+This is line four.
+
+********** This is the correct stdout:
+This is line one.
+This is  
+line three.
+This is line four.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 5SUCCESS: 2
+
+===============================================================
+Test with input file 05falsecommentend6.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is /*line two.*
+********** This is the correct stdout:
+This is line one.
+This is  
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+Total Lines: 2
+
+***** stderr is incorrect.
+
+********** This is stdin:
+This is line one.
+This is /*line two.*
+********** This is the correct stderr:
+Error: line 2: unterminated comment
+
+********** This is your program's stderr:
+Line 2: Unterminated Comment.
+
+===============================================================
+Test with input file 05falsecommentend7.txt
+===============================================================
+
+***** Exit status is incorrect.
+
+********** This is the correct exit status:
+0
+
+********** Your program had this exit status:
+1
+
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is /*line two****
+****/ This is line three.
+This is line four.
+
+********** This is the correct stdout:
+This is line one.
+This is  
+ This is line three.
+This is line four.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 4 
+currentState: 3 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 4 
+currentState: 3 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+Total Lines: 5
+
+***** stderr is incorrect.
+
+********** This is stdin:
+This is line one.
+This is /*line two****
+****/ This is line three.
+This is line four.
+
+********** This is the correct stderr:
+
+********** This is your program's stderr:
+Line 5: Unterminated Comment.
+
+===============================================================
+Test with input file 06commentinstring1.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This "is /*line*/ two".
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This "is /*line*/ two".
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 06commentinstring2.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This /"is /*line*/ two".
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This /"is /*line*/ two".
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 06commentinstring3.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+"This 'is /*line*/ two".
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+"This 'is /*line*/ two".
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 06commentinstring4.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This \"is /*line*/ two".
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This \"is /*line*/ two".
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 06commentinstring5.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This /*is*/"/*line two */"
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This  "/*line two */"
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 07commentinchar1.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This 'is /*line*/ two'.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This 'is /*line*/ two'.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 07commentinchar2.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This /'is /*line*/ two'.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This /'is /*line*/ two'.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 07commentinchar3.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+'This "is /*line*/ two'.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+'This "is /*line*/ two'.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 07commentinchar4.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This \'is /*line*/ two'.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This \'is /*line*/ two'.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 07commentinchar5.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This /*is*/'/*line two */'
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This  '/*line two */'
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 08escapeinstring1.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This "is \" /*line*/ two".
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This "is \" /*line*/ two".
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 08escapeinstring2.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is "\"/*line*/ two".
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This is "\"/*line*/ two".
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 08escapeinstring3.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is "/*line*/ two\"".
+This is /*line*/ three.
+This is line four.
+
+********** This is the correct stdout:
+This is line one.
+This is "/*line*/ two\"".
+This is   three.
+This is line four.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 5SUCCESS: 2
+
+===============================================================
+Test with input file 08escapeinstring4.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is "line\\" two.
+This is /*line*/ three.
+This is line four.
+
+********** This is the correct stdout:
+This is line one.
+This is "line\\" two.
+This is   three.
+This is line four.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 5SUCCESS: 2
+
+===============================================================
+Test with input file 08escapeinstring5.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This "is line two\
+********** This is the correct stdout:
+This is line one.
+This "is line two\
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 2SUCCESS: 2
+
+===============================================================
+Test with input file 08escapeinstring6.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This "is \'line" two.
+This is /*line*/ three.
+This is line four.
+
+********** This is the correct stdout:
+This is line one.
+This "is \'line" two.
+This is   three.
+This is line four.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 5SUCCESS: 2
+
+===============================================================
+Test with input file 09escapeinchar1.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This 'is \' /*line*/ two'.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This 'is \' /*line*/ two'.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 09escapeinchar2.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is '\'/*line*/ two'.
+This is line three.
+
+********** This is the correct stdout:
+This is line one.
+This is '\'/*line*/ two'.
+This is line three.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 4SUCCESS: 2
+
+===============================================================
+Test with input file 09escapeinchar3.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is '/*line*/ two\''.
+This is /*line*/ three.
+This is line four.
+
+********** This is the correct stdout:
+This is line one.
+This is '/*line*/ two\''.
+This is   three.
+This is line four.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 5SUCCESS: 2
+
+===============================================================
+Test with input file 09escapeinchar4.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is 'line\\' two.
+This is /*line*/ three.
+This is line four.
+
+********** This is the correct stdout:
+This is line one.
+This is 'line\\' two.
+This is   three.
+This is line four.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 5SUCCESS: 2
+
+===============================================================
+Test with input file 09escapeinchar5.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This 'is line two\
+********** This is the correct stdout:
+This is line one.
+This 'is line two\
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 2SUCCESS: 2
+
+===============================================================
+Test with input file 09escapeinchar6.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This 'is \"line' two.
+This is /*line*/ three.
+This is line four.
+
+********** This is the correct stdout:
+This is line one.
+This 'is \"line' two.
+This is   three.
+This is line four.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 5SUCCESS: 2
+
+===============================================================
+Test with input file 10untermstring.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is line two.
+This is "line three.
+This /*is*/ line four.
+This is line five.
+
+********** This is the correct stdout:
+This is line one.
+This is line two.
+This is "line three.
+This /*is*/ line four.
+This is line five.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 6SUCCESS: 2
+
+===============================================================
+Test with input file 11untermchar.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is line two.
+This is 'line three.
+This /*is*/ line four.
+This is line five.
+
+********** This is the correct stdout:
+This is line one.
+This is line two.
+This is 'line three.
+This /*is*/ line four.
+This is line five.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 6SUCCESS: 2
+
+===============================================================
+Test with input file 12untermcomment1.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+
+********** This is the correct stdout:
+
+********** This is your program's stdout:
+Total Lines: 1SUCCESS: 0
+
+===============================================================
+Test with input file 12untermcomment2.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is line two.
+This is /* line three.
+This is line four.
+This is line five.*
+********** This is the correct stdout:
+This is line one.
+This is line two.
+This is  
+
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+Total Lines: 5
+
+***** stderr is incorrect.
+
+********** This is stdin:
+This is line one.
+This is line two.
+This is /* line three.
+This is line four.
+This is line five.*
+********** This is the correct stderr:
+Error: line 3: unterminated comment
+
+********** This is your program's stderr:
+Line 5: Unterminated Comment.
+
+===============================================================
+Test with input file 12untermcomment3.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is /* line two
+This is line three.
+This is line*/ four.
+This is line five
+This is /* line six.
+This is line seven.
+This is line eight.
+
+********** This is the correct stdout:
+This is line one.
+This is  
+
+ four.
+This is line five
+This is  
+
+
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+Total Lines: 9
+
+***** stderr is incorrect.
+
+********** This is stdin:
+This is line one.
+This is /* line two
+This is line three.
+This is line*/ four.
+This is line five
+This is /* line six.
+This is line seven.
+This is line eight.
+
+********** This is the correct stderr:
+Error: line 6: unterminated comment
+
+********** This is your program's stderr:
+Line 9: Unterminated Comment.
+
+===============================================================
+Test with input file 12untermcomment4.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This /*is line two.*
+This is line three.*
+This is line four.*
+********** This is the correct stdout:
+This is line one.
+This  
+
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+Total Lines: 4
+
+***** stderr is incorrect.
+
+********** This is stdin:
+This is line one.
+This /*is line two.*
+This is line three.*
+This is line four.*
+********** This is the correct stderr:
+Error: line 2: unterminated comment
+
+********** This is your program's stderr:
+Line 4: Unterminated Comment.
+
+===============================================================
+Test with input file 13emptyfile.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+
+********** This is the correct stdout:
+
+********** This is your program's stdout:
+Total Lines: 1SUCCESS: 0
+
+===============================================================
+Test with input file 14emptycomment.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is line two.
+This is /**/line three.
+This /*is*/ line four.
+This is line five.
+
+********** This is the correct stdout:
+This is line one.
+This is line two.
+This is  line three.
+This   line four.
+This is line five.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 6SUCCESS: 2
+
+===============================================================
+Test with input file 15emptystring.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is line two.
+This is "" line three.
+This /*is*/ line four.
+This is line five.
+
+********** This is the correct stdout:
+This is line one.
+This is line two.
+This is "" line three.
+This   line four.
+This is line five.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 6SUCCESS: 2
+
+===============================================================
+Test with input file 16emptychar.txt
+===============================================================
+
+***** stdout is incorrect.
+
+********** This is stdin:
+This is line one.
+This is line two.
+This is '' line three.
+This /*is*/ line four.
+This is line five.
+
+********** This is the correct stdout:
+This is line one.
+This is line two.
+This is '' line three.
+This   line four.
+This is line five.
+
+********** This is your program's stdout:
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 1 
+currentState: 4 
+currentState: 4 
+currentState: 4 
+currentState: 3 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+currentState: 2 
+Total Lines: 6SUCCESS: 2
+
