@@ -1,0 +1,35 @@
+START (accept)
+  /:MAYBECOMMENT
+  ':INCHAR
+  ":INLITERAL
+  other: START
+
+MAYBECOMMENT (accept)
+  *:INCOMMENT
+  /:MAYBECOMMENT
+  ':INCHAR
+  ":INLITERAL
+  other:START
+
+MAYBENOTCOMMENT (reject)
+  *:MAYBENOTCOMMENT
+  /:START
+  other:INCOMMENT
+  
+INCOMMENT (reject)
+  *:MAYBENOTCOMMENT
+  other:INCOMMENT
+
+INCHAR (accept)
+  \:RETURNCHAR
+  ':START
+
+INLITERAL (accept)
+  \:RETURNSTRING
+  ":START
+
+RETURNSTRING (accept)
+  other:INLITERAL
+
+RETURNCHAR (accept)
+  other:INCHAR
